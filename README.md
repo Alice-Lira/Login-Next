@@ -7,6 +7,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [git](https://git-scm.com/)
   
 ### Abrir e rodar o projeto
 Antes de começar, você vai precisar ter instalado na sua máquina as seguintes ferramentas:
