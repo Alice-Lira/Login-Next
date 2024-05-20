@@ -1,4 +1,4 @@
-# Calculadora de alimentos 
+# Login com Next.js 
 
 ### Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
