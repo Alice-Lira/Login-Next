@@ -15,7 +15,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 No terminal clone o projeto:
-$ git clone https://github.com/Alice-Lira/Login-Next.git
+$ git clone https://github.com/Alice-Lira/login-next.git
 
 Entre na pasta do projeto:
 $ cd login-next
